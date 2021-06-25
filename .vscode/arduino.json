@@ -3,5 +3,5 @@
     "board": "arduino:avr:mega",
     "output": "build",
     "port": "COM4",
-    "sketch": "Exercise_2_Task_3.ino"
+    "sketch": "Exercise_2_Task_4.ino"
 }
